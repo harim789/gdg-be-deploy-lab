@@ -72,7 +72,7 @@ Java 코드(`src/main/java`)는 오늘 건드리지 않습니다. 숙제에서 �
 
 ## 배포 주소
 
-> https://study-api-harim.onrender.com
+> https://study-api-harim.onrender.com/studies
 
 -
 
